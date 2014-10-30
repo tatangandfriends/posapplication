@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}POSApplication
+${licensePrefix}Contact the developers: http://github.com/tatangandfriends ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
